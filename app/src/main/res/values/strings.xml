@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BeFit</string>
+    <string name="icon_BeFit">Icon BeFit</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgotten_password">Mot de passe oublié?</string>
+    <string name="connexion">Se Connecter</string>
+    <string name="no_account">Pas de compte? Créer en un</string>
+    <string name="with_connexion">Se connecter avec :</string>
+    <string name="email">Email</string>
+    <string name="register">S\'inscrire</string>
+    <string name="with_register">S\'inscrire avec :</string>
+    <string name="banner_profil">Mon profil</string>
+    <string name="banner_profil_morphologie">Veuillez choisir votre morphologie :</string>
+    <string name="banner_profil_age">Veuillez renseigner votre âge :</string>
+    <string name="banner_profil_niveau">Veuillez estimez votre niveau :</string>
+    <string name="banner_profil_beginner">Niveau débutant \n Pratique sportive habituelle entre 0 et 1 fois par semaine</string>
+    <string name="banner_profil_medium">Niveau intermédiaire \n Pratique sportive habituelle entre 2 et 4 fois par semaine</string>
+    <string name="banner_profil_hard">Niveau confirmé \n Pratique sportive habituelle dépassant 4 fois par semaine</string>
+    <string name="banner_profil_personnalizable">Niveau personnalisé \n Personnalisez le niveau de chaque activité</string>
+    <string name="banner_profil_gender_male">Masculin</string>
+    <string name="banner_profil_gender_female">Féminin</string>
+    <string name="banner_profil_age_base">18</string>
+    <string name="banner_profil_age_indication">ans</string>
+    <string name="defis">Défis</string>
+    <string name="challenges">Challenges</string>
+    <string name="challenge">Challenge</string>
+    <string name="personal_challenge">Défis Personnels</string>
+    <string name="profil">Mon Profil</string>
+    <string name="teamQC">La Team QC</string>
+    <string name="Defi">Défi à valider</string>
+    <string name="validate_attack_button">VALIDER LES DEFIS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

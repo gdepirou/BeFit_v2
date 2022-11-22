@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "777636787311",
+    "project_id": "befit-v2-3b432",
+    "storage_bucket": "befit-v2-3b432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777636787311:android:46e2c0d1cc0cd9725fc99a",
+        "android_client_info": {
+          "package_name": "fr.gdemau.befit_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777636787311-b7iolirm2o6262dnqmgbi15uns2edcla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.gdemau.befit_v2",
+            "certificate_hash": "9e3333061b36dd414d7f576dff58bd1b98d88c20"
+          }
+        },
+        {
+          "client_id": "777636787311-ucjlvossokn0mhbvqqmp8hm6v62d6m5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXrxwM4odXxdaGNaHQPIlRGVtmEOj1r4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777636787311-ucjlvossokn0mhbvqqmp8hm6v62d6m5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
