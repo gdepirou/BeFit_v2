@@ -30,6 +30,9 @@
     <string name="teamQC">La Team QC</string>
     <string name="Defi">Défi à valider</string>
     <string name="validate_attack_button">VALIDER LES DEFIS</string>
+    <string name="Pompes15">pompes x15</string>
+    <string name="Pompes35">pompes x35</string>
+    <string name="squat50">squats x50</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
