@@ -15,6 +15,7 @@ import fr.gdemau.befit_v2.Fragment.ProfileFragment;
 
 public class MainActivity extends AppCompatActivity {
 
+
     ImageView histo,attaque,muscle,defi,profile;
 
     Fragment selectedFragment = null;

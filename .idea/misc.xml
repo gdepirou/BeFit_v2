@@ -6,6 +6,7 @@
         <entry key="..\:/Android/BeFit_v2/app/src/main/res/drawable/logo.xml" value="0.1" />
         <entry key="..\:/Android/BeFit_v2/app/src/main/res/drawable/logo_100_background.xml" value="0.279" />
         <entry key="..\:/Android/BeFit_v2/app/src/main/res/drawable/logo_background.xml" value="0.1055" />
+        <entry key="..\:/Android/BeFit_v2/app/src/main/res/drawable/rounded_corner.xml" value="0.2195" />
         <entry key="..\:/Android/BeFit_v2/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Android/BeFit_v2/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Android/BeFit_v2/app/src/main/res/layout/activity_register.xml" value="0.1" />
@@ -13,8 +14,9 @@
         <entry key="..\:/Android/BeFit_v2/app/src/main/res/layout/fragment_attaque.xml" value="0.27447916666666666" />
         <entry key="..\:/Android/BeFit_v2/app/src/main/res/layout/fragment_defi.xml" value="0.27447916666666666" />
         <entry key="..\:/Android/BeFit_v2/app/src/main/res/layout/fragment_histo.xml" value="0.27447916666666666" />
-        <entry key="..\:/Android/BeFit_v2/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/Android/BeFit_v2/app/src/main/res/layout/fragment_home.xml" value="0.264" />
         <entry key="..\:/Android/BeFit_v2/app/src/main/res/layout/fragment_profile.xml" value="0.176" />
+        <entry key="..\:/Android/BeFit_v2/app/src/main/res/layout/model_challenge.xml" value="0.1" />
       </map>
     </option>
   </component>
